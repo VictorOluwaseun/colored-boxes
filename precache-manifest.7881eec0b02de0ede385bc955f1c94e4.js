@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "247ba2f9ae3f8b717aa173ca5b34eda6",
+    "revision": "4c003e79422bdaf2f54429d84fb45cee",
     "url": "//victorpro4C.github.io/colored-boxes.git/index.html"
   },
   {
-    "revision": "cf0d67f4aa9b8ea0c974",
+    "revision": "63945464193b4cfdbea1",
     "url": "//victorpro4C.github.io/colored-boxes.git/static/css/main.b100e6da.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "//victorpro4C.github.io/colored-boxes.git/static/js/2.0baed8b2.chunk.js"
   },
   {
-    "revision": "cf0d67f4aa9b8ea0c974",
-    "url": "//victorpro4C.github.io/colored-boxes.git/static/js/main.8879103d.chunk.js"
+    "revision": "63945464193b4cfdbea1",
+    "url": "//victorpro4C.github.io/colored-boxes.git/static/js/main.df5083dd.chunk.js"
   },
   {
     "revision": "d646ae52ca2635cf5498",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "//victorpro4C.github.io/colored-boxes.git/precache-manifest.0e1a2bfeb998c4848a505cd8acd4a505.js"
+  "//victorpro4C.github.io/colored-boxes.git/precache-manifest.7881eec0b02de0ede385bc955f1c94e4.js"
 );
 
 self.addEventListener('message', (event) => {

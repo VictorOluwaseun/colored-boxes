@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "//victorpro4C.github.io/colored-boxes.git/static/css/main.b100e6da.chunk.css",
-    "main.js": "//victorpro4C.github.io/colored-boxes.git/static/js/main.8879103d.chunk.js",
-    "main.js.map": "//victorpro4C.github.io/colored-boxes.git/static/js/main.8879103d.chunk.js.map",
+    "main.js": "//victorpro4C.github.io/colored-boxes.git/static/js/main.df5083dd.chunk.js",
+    "main.js.map": "//victorpro4C.github.io/colored-boxes.git/static/js/main.df5083dd.chunk.js.map",
     "runtime-main.js": "//victorpro4C.github.io/colored-boxes.git/static/js/runtime-main.cc444c06.js",
     "runtime-main.js.map": "//victorpro4C.github.io/colored-boxes.git/static/js/runtime-main.cc444c06.js.map",
     "static/js/2.0baed8b2.chunk.js": "//victorpro4C.github.io/colored-boxes.git/static/js/2.0baed8b2.chunk.js",
     "static/js/2.0baed8b2.chunk.js.map": "//victorpro4C.github.io/colored-boxes.git/static/js/2.0baed8b2.chunk.js.map",
     "index.html": "//victorpro4C.github.io/colored-boxes.git/index.html",
-    "precache-manifest.0e1a2bfeb998c4848a505cd8acd4a505.js": "//victorpro4C.github.io/colored-boxes.git/precache-manifest.0e1a2bfeb998c4848a505cd8acd4a505.js",
+    "precache-manifest.7881eec0b02de0ede385bc955f1c94e4.js": "//victorpro4C.github.io/colored-boxes.git/precache-manifest.7881eec0b02de0ede385bc955f1c94e4.js",
     "service-worker.js": "//victorpro4C.github.io/colored-boxes.git/service-worker.js",
     "static/css/main.b100e6da.chunk.css.map": "//victorpro4C.github.io/colored-boxes.git/static/css/main.b100e6da.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.cc444c06.js",
     "static/js/2.0baed8b2.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.8879103d.chunk.js"
+    "static/js/main.df5083dd.chunk.js"
   ]
 }
