@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "//victorpro4C.github.io/colored-boxes.git/static/css/main.b100e6da.chunk.css",
-    "main.js": "//victorpro4C.github.io/colored-boxes.git/static/js/main.df5083dd.chunk.js",
-    "main.js.map": "//victorpro4C.github.io/colored-boxes.git/static/js/main.df5083dd.chunk.js.map",
-    "runtime-main.js": "//victorpro4C.github.io/colored-boxes.git/static/js/runtime-main.cc444c06.js",
-    "runtime-main.js.map": "//victorpro4C.github.io/colored-boxes.git/static/js/runtime-main.cc444c06.js.map",
-    "static/js/2.0baed8b2.chunk.js": "//victorpro4C.github.io/colored-boxes.git/static/js/2.0baed8b2.chunk.js",
-    "static/js/2.0baed8b2.chunk.js.map": "//victorpro4C.github.io/colored-boxes.git/static/js/2.0baed8b2.chunk.js.map",
-    "index.html": "//victorpro4C.github.io/colored-boxes.git/index.html",
-    "precache-manifest.7881eec0b02de0ede385bc955f1c94e4.js": "//victorpro4C.github.io/colored-boxes.git/precache-manifest.7881eec0b02de0ede385bc955f1c94e4.js",
-    "service-worker.js": "//victorpro4C.github.io/colored-boxes.git/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "//victorpro4C.github.io/colored-boxes.git/static/css/main.b100e6da.chunk.css.map"
+    "main.css": "/colored-boxes.git/static/css/main.b100e6da.chunk.css",
+    "main.js": "/colored-boxes.git/static/js/main.29b5e364.chunk.js",
+    "main.js.map": "/colored-boxes.git/static/js/main.29b5e364.chunk.js.map",
+    "runtime-main.js": "/colored-boxes.git/static/js/runtime-main.ad378e30.js",
+    "runtime-main.js.map": "/colored-boxes.git/static/js/runtime-main.ad378e30.js.map",
+    "static/js/2.0baed8b2.chunk.js": "/colored-boxes.git/static/js/2.0baed8b2.chunk.js",
+    "static/js/2.0baed8b2.chunk.js.map": "/colored-boxes.git/static/js/2.0baed8b2.chunk.js.map",
+    "index.html": "/colored-boxes.git/index.html",
+    "precache-manifest.042b3f22dba612326bec3f1501fbe70d.js": "/colored-boxes.git/precache-manifest.042b3f22dba612326bec3f1501fbe70d.js",
+    "service-worker.js": "/colored-boxes.git/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/colored-boxes.git/static/css/main.b100e6da.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.cc444c06.js",
+    "static/js/runtime-main.ad378e30.js",
     "static/js/2.0baed8b2.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.df5083dd.chunk.js"
+    "static/js/main.29b5e364.chunk.js"
   ]
 }
